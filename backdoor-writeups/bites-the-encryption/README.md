@@ -9,19 +9,20 @@ Description:
 
 You are provided with a Base64-encoded message `msg.enc` that has been encrypted by a Python program `encrypt.py`. The encryption program looks like this:
 
-    from Crypto.Cipher import AES
-    from base64 import b64encode
-    import os
-    import secert
+```python
+from Crypto.Cipher import AES
+from base64 import b64encode
+import os
+import secert
 
-    key = os.urandom(16)
-    msg = secert.msg
-    nonce = b"     177013     " # dont google this
+key = os.urandom(16)
+msg = secert.msg
+nonce = b"     177013     " # dont google this
 
-    crypto = AES.new(key, AES.MODE_CTR, counter=lambda: nonce)
-    msg = crypto.encrypt(msg)
-    print(b64encode(msg))
-
+crypto = AES.new(key, AES.MODE_CTR, counter=lambda: nonce)
+msg = crypto.encrypt(msg)
+print(b64encode(msg))
+```
 
 Solution
 --------
@@ -30,6 +31,8 @@ On the face of it, this looks like a difficult one to crack. When implemented co
 
 While working on the [CryptoPals Crypto Challenge](https://cryptopals.com/), I created a tool that can crack repeating-key XOR ciphers quite successfully in cases where the plaintext consists of plain English. It certainly didn't have much trouble with this one:
 
-    from cryptopals import vigenereCrack
-    ct = open('msg.enc','r').read().decode('base64')
-    print vigenereCrack(ct,keysize=16)
+```python
+from cryptopals import vigenereCrack
+ct = open('msg.enc','r').read().decode('base64')
+print vigenereCrack(ct,keysize=16)
+```
