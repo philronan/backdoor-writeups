@@ -50,3 +50,5 @@ http://hack.bckdr.in:17582/?password%5B%5D=0
 ```
 
 But instead of `password`, you'll need to find the correct token name. It shouldn't take you very long.
+
+(Note: the website currently says that nobody has solved this challenge, but this is incorrect.)
