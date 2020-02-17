@@ -20,7 +20,7 @@ The modulus (`n`) is a 1024-bit number, so breaking it into its two prime factor
 Solution
 --------
 
-Once we know `p` and `q`, the calculation is completely straightforward. Just calculate the decryption coefficient `d`, use it to decrypt `c`, then convert the resulting number into a string by treating its hexadecimal representation as a string of byte values. See `textbook_rsa.py` for details.
+Once we know `p` and `q`, the calculation is completely straightforward. Just calculate the decryption coefficient `d`, use it to decrypt `c`, then convert the resulting number into a string by treating its hexadecimal representation as a string of byte values. See [textbook_rsa.py](../_lib/textbook_rsa.py) for details.
 
 ```
 from textbook_rsa import rsa_decrypt
