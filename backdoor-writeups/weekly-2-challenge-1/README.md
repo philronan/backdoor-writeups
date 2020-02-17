@@ -37,7 +37,7 @@ According to the Python source code provided as part of the challenge, `n1` is t
 
 By simple algebra, `p+q = (n2-n1-16)/4`. Since we now have expressions for `p+q` and `p*q`, we can find `p` and `q` by solving a quadratic equation. I'll leave you to figure out the details.
 
-All you have to do then is plug the correct values for `p`, `q`, `c` and `e` into the [RSA code](textbook_rsa.py) to undo the double encryption used in `run.py` and get a plaintext message that will allow you to retrieve the key.
+All you have to do then is plug the correct values for `p`, `q`, `c` and `e` into the [RSA calculation library](../_lib/textbook_rsa.py) to undo the double encryption used in `run.py` and get a plaintext message that will allow you to retrieve the key.
 
 ```Python
 cc = rsa_decrypt(p+4,q+4,c,e,False)
