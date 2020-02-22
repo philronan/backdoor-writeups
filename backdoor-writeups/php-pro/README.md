@@ -30,8 +30,8 @@ Content-type: text/html; charset=UTF-8
 </html>
 ```
 
-Solution
---------
+Solution:
+---------
 
 The title of the web page provides a useful clue. A common flaw in PHP CTF challenges (and, I guess, out in the wild) is the use of the following syntax to check a user's login credentials:
 
@@ -51,4 +51,4 @@ http://hack.bckdr.in:17582/?password%5B%5D=0
 
 But instead of `password`, you'll need to find the correct token name. It shouldn't take you very long.
 
-(Note: the website currently says that nobody has solved this challenge, but this is incorrect.)
+(Note: the website currently says that nobody has solved this challenge, but this is incorrect. You'll probably find that you are instead credited for solving [compare-me](../compare-me) instead.)

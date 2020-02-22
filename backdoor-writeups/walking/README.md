@@ -9,8 +9,8 @@ Description:
 
 The challenge consists of an image file (bing.jpg) and the message "Sometimes an image contains more than it looks."
 
-Solution
---------
+Solution:
+---------
 
 A quick inspection in a hex editor showed that a zip archive has been tacked onto the end of this file. This is what `zipinfo` made of it:
 

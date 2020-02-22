@@ -29,8 +29,8 @@ This is all wrong; all PNG files should start with the following signature:
 00000000: 8950 4e47 0d0a 1a0a                      .PNG....        
 ```
 
-Solution
---------
+Solution:
+---------
 
 The title of this challenge strongly suggests that the file has been encrypted by XOR-ing it with a secret key. If so, we can easily discover the first 8 bytes of this key by XOR-ing this file signature with the first 8 bytes of `secretzz.png`:
 

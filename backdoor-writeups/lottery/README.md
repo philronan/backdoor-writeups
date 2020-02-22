@@ -9,8 +9,8 @@ Description:
 
 Given the source code of an online lottery program, find a way of winning the lottery with fewer than the expected number of attempts.
 
-Solution
---------
+Solution:
+---------
 
 Winning the lottery requires the player to correctly guess six numbers from 1 to 42. These are the lines from `lottery.c` that generate the prize-winning numbers:
 

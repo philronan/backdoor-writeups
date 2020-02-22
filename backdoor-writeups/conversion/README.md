@@ -9,8 +9,8 @@ Description:
 
 It sounds like we need to exploit a vulnerability related to casting, or [type conversion](https://en.wikipedia.org/wiki/Type_conversion), as it's sometimes called. You're given a 64-bit ELF executable file, and the location of an online instance of this program.
 
-Solution
---------
+Solution:
+---------
 
 Connect to the online server, and you get this prompt:
 

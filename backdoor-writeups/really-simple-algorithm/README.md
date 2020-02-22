@@ -9,7 +9,7 @@ Description:
 
 Extract the flag from a file `flag.enc`.
 
-Solution
---------
+Solution:
+---------
 
 The file contains a long string of ASCII characters. After base64 decoding, it turns out that this is exactly the same sort of problem as [yarp](../yarp), and can be solved in exactly the same way.

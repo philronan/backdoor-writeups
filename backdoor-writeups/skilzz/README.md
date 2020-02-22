@@ -9,8 +9,8 @@ Description:
 
 The challenge here is to extract a flag from a bash server with a restricted set of available commands.
 
-Solution
---------
+Solution:
+---------
 
 When you connect to the server via netcat, the commands you type in are treated as input to a bash console, except that most commands are unavailable.
 

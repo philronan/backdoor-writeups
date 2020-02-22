@@ -8,20 +8,28 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 <tbody>
 <tr><td style="border:none; padding:0; vertical-align:top;">
 
+- [babyrsa](backdoor-writeups/babyrsa/)
 - [bites-the-encryption](backdoor-writeups/bites-the-encryption/)
 - [bossfight](backdoor-writeups/bossfight/)
+- [cats-everywhere](backdoor-writeups/cats-everywhere/)
+- [collision-itis](backdoor-writeups/collision-itis/)
 - [compare-me](backdoor-writeups/compare-me/)
 - [conversion](backdoor-writeups/conversion/)
 - [crashes](backdoor-writeups/crashes/)
+- [detroit-become-human](backdoor-writeups/detroit-become-human/)
+- [dig-it](backdoor-writeups/dig-it/)
 - [easy-flipp](backdoor-writeups/easy-flipp/)
+- [find-the-baby](backdoor-writeups/find-the-baby/)
 - [haxored](backdoor-writeups/haxored/)
+- [heads-or-tails](backdoor-writeups/heads-or-tails/)
 - [john-cena](backdoor-writeups/john-cena/)
 - [link-preview](backdoor-writeups/link-preview/)
-- [lottery](backdoor-writeups/lottery/)
-- [noobsource](backdoor-writeups/noobsource/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
+- [lottery](backdoor-writeups/lottery/)
+- [no-calm](backdoor-writeups/no-calm/)
+- [noobsource](backdoor-writeups/noobsource/)
 - [off-by-slash](backdoor-writeups/off-by-slash/)
 - [overshaded](backdoor-writeups/overshaded/)
 - [pcap-me](backdoor-writeups/pcap-me/)
@@ -30,22 +38,29 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [really-simple-algorithm](backdoor-writeups/really-simple-algorithm/)
 - [shounen-rsa](backdoor-writeups/shounen-rsa/)
 - [simple](backdoor-writeups/simple/)
+- [simple-ransomware](backdoor-writeups/simple-ransomware/)
+- [simple-rsa](backdoor-writeups/simple-rsa/)
 - [skilzz](backdoor-writeups/skilzz/)
 - [teenage-rsa](backdoor-writeups/teenage-rsa/)
-- [the-way-back](backdoor-writeups/the-way-back/)
+- [terrible-code](backdoor-writeups/terrible-code/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
+- [the-way-back](backdoor-writeups/the-way-back/)
+- [ups-and-downs](backdoor-writeups/ups-and-downs/)
 - [walking](backdoor-writeups/walking/)
+- [wasm-secrets](backdoor-writeups/wasm-secrets/)
 - [weekly-1-challenge-1](backdoor-writeups/weekly-1-challenge-1/)
 - [weekly-2-challenge-1](backdoor-writeups/weekly-2-challenge-1/)
 - [weekly-2-challenge-4](backdoor-writeups/weekly-2-challenge-4/)
 - [what-the-f0x](backdoor-writeups/what-the-f0x/)
 - [whats-this](backdoor-writeups/whats-this/)
+- [wheres-the-f4cking-password](backdoor-writeups/wheres-the-f4cking-password/)
 - [x0r-s33d-x0r](backdoor-writeups/x0r-s33d-x0r/)
 - [xor-me-senpai](backdoor-writeups/xor-me-senpai/)
 - [yarp](backdoor-writeups/yarp/)
 - [zipper](backdoor-writeups/zipper/)
+
 </td></tr>
 </tbody>
 </table>

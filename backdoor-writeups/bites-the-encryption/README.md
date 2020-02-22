@@ -24,8 +24,8 @@ msg = crypto.encrypt(msg)
 print(b64encode(msg))
 ```
 
-Solution
---------
+Solution:
+---------
 
 On the face of it, this looks like a difficult one to crack. When implemented correctly, AES in CTR mode should be impossible to decipher without the correct key. However, the `counter` parameter looks strange. This is supposed to be a function that returns an incrementing 128-bit value at each call, but instead it returns a constant string of 16 bytes. As a result, each 16-byte block of plaintext is effectively being encrypted with exactly the same key. We can therefore treat the ciphertext as a sort of XOR Vigenère cipher using an unknown 16-byte key.
 

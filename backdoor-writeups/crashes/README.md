@@ -37,8 +37,8 @@ else{
 ?>
 ```
 
-Solution
---------
+Solution:
+---------
 
 It looks like we need to request this page with a query string containing two different parameters `a` and `b` that have the same MD5 hash. In other words, we have to find an MD5 collision. Now that MD5 is thoroughly broken, there are plenty of examples to choose from. [The shortest examples appear to be 64-byte binary strings.](https://crypto.stackexchange.com/q/15873/11718)
 
@@ -50,8 +50,9 @@ However, PHP has a special quirk that allows you to get the flag with query stri
 > even if they are actually strings, it will convert them both and perform
 > a numeric comparison:
 >
-> ▪ `TRUE: "0e12345" == "0e54321" ▪ TRUE: "0e12345" <= "1"`
-> ▪ `TRUE: "0e12345" == "0"`
+> ▪ `TRUE: "0e12345" == "0e54321"` \
+> ▪ `TRUE: "0e12345" <= "1"` \
+> ▪ `TRUE: "0e12345" == "0"` \
 > ▪ `TRUE: "0xF" == "15"`
 >
 > Less impact, but still important.

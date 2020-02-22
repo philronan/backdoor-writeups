@@ -9,8 +9,8 @@ Description:
 
 You are given two files — `pixel_shader.cso` and `shader.hlsl` — and a [link to a web page](https://www.gamedev.net/forums/topic/669081-hlsl-matrix-initialization/5233874/) that hopefully provides some useful information.
 
-Solution
---------
+Solution:
+---------
 
 The `.hlsl` extension indicates a High Level Shader Language File, which is used in 3D rendering. In this case, it just seems to define a 4×4 matrix of `float` values that have all been redacted.
 

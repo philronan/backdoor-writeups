@@ -9,8 +9,8 @@ Description:
 
 Extract the flag from a zip file.
 
-Solution
---------
+Solution:
+---------
 
 Use `zipinfo` to peek inside the file:
 

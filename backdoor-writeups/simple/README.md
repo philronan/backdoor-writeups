@@ -9,8 +9,8 @@ Description:
 
 You're given a 64-bit ELF binary, its C source code, and a URL where the program can be accessed at a remote server. You're also give some pretty clear instructions to the effect that you need to use a buffer overflow exploit to obtain the flag.
 
-Solution
---------
+Solution:
+---------
 
 The C source code is very short:
 
