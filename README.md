@@ -45,14 +45,16 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [php-pro](backdoor-writeups/php-pro/)
 - [polynomial](backdoor-writeups/polynomial/)
 - [really-simple-algorithm](backdoor-writeups/really-simple-algorithm/)
+- [rsanne](backdoor-writeups/rsanne/)
 - [shounen-rsa](backdoor-writeups/shounen-rsa/)
 - [simple](backdoor-writeups/simple/)
 - [simple-ransomware](backdoor-writeups/simple-ransomware/)
-- [simple-rsa](backdoor-writeups/simple-rsa/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
+- [simple-rsa](backdoor-writeups/simple-rsa/)
 - [skilzz](backdoor-writeups/skilzz/)
+- [team](backdoor-writeups/team/)
 - [teenage-rsa](backdoor-writeups/teenage-rsa/)
 - [terrible-code](backdoor-writeups/terrible-code/)
 - [the-way-back](backdoor-writeups/the-way-back/)
