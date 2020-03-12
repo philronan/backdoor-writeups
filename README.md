@@ -27,10 +27,10 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [detroit-become-human](backdoor-writeups/detroit-become-human/)
 - [dig-it](backdoor-writeups/dig-it/)
 - [easy-flipp](backdoor-writeups/easy-flipp/)
+- [find-the-baby](backdoor-writeups/find-the-baby/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
-- [find-the-baby](backdoor-writeups/find-the-baby/)
 - [haxored](backdoor-writeups/haxored/)
 - [heads-or-tails](backdoor-writeups/heads-or-tails/)
 - [john-cena](backdoor-writeups/john-cena/)
@@ -45,14 +45,15 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [php-pro](backdoor-writeups/php-pro/)
 - [polynomial](backdoor-writeups/polynomial/)
 - [really-simple-algorithm](backdoor-writeups/really-simple-algorithm/)
+- [rsalot](backdoor-writeups/rsalot/)
 - [rsanne](backdoor-writeups/rsanne/)
 - [shounen-rsa](backdoor-writeups/shounen-rsa/)
 - [simple](backdoor-writeups/simple/)
 - [simple-ransomware](backdoor-writeups/simple-ransomware/)
+- [simple-rsa](backdoor-writeups/simple-rsa/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
-- [simple-rsa](backdoor-writeups/simple-rsa/)
 - [skilzz](backdoor-writeups/skilzz/)
 - [team](backdoor-writeups/team/)
 - [teenage-rsa](backdoor-writeups/teenage-rsa/)
