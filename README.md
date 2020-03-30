@@ -17,6 +17,7 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [2013-forensic-300](backdoor-writeups/2013-forensic-300/)
 - [2013-web-50](backdoor-writeups/2013-web-50/)
 - [babyrsa](backdoor-writeups/babyrsa/)
+- [bin-easy](backdoor-writeups/bin-easy/)
 - [bites-the-encryption](backdoor-writeups/bites-the-encryption/)
 - [bossfight](backdoor-writeups/bossfight/)
 - [cats-everywhere](backdoor-writeups/cats-everywhere/)
@@ -27,10 +28,12 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [detroit-become-human](backdoor-writeups/detroit-become-human/)
 - [dig-it](backdoor-writeups/dig-it/)
 - [easy-flipp](backdoor-writeups/easy-flipp/)
-- [find-the-baby](backdoor-writeups/find-the-baby/)
+- [find-me](backdoor-writeups/find-me/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
+- [find-the-baby](backdoor-writeups/find-the-baby/)
+- [frost](backdoor-writeups/frost/)
 - [haxored](backdoor-writeups/haxored/)
 - [heads-or-tails](backdoor-writeups/heads-or-tails/)
 - [john-cena](backdoor-writeups/john-cena/)
@@ -50,10 +53,10 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [shounen-rsa](backdoor-writeups/shounen-rsa/)
 - [simple](backdoor-writeups/simple/)
 - [simple-ransomware](backdoor-writeups/simple-ransomware/)
-- [simple-rsa](backdoor-writeups/simple-rsa/)
 
 </td><td style="border:none; padding:0; vertical-align:top;">
 
+- [simple-rsa](backdoor-writeups/simple-rsa/)
 - [skilzz](backdoor-writeups/skilzz/)
 - [team](backdoor-writeups/team/)
 - [teenage-rsa](backdoor-writeups/teenage-rsa/)
@@ -65,6 +68,7 @@ Here's a list of the writeups I've completed so far. [For a complete list of the
 - [weekly-1-challenge-1](backdoor-writeups/weekly-1-challenge-1/)
 - [weekly-2-challenge-1](backdoor-writeups/weekly-2-challenge-1/)
 - [weekly-2-challenge-4](backdoor-writeups/weekly-2-challenge-4/)
+- [weird-auth](backdoor-writeups/weird-auth/)
 - [what-the-f0x](backdoor-writeups/what-the-f0x/)
 - [whats-this](backdoor-writeups/whats-this/)
 - [wheres-the-f4cking-password](backdoor-writeups/wheres-the-f4cking-password/)
