@@ -7,7 +7,7 @@ Tags: [n00b19CTF] [web]
 Description:
 ------------
 
-Someone has written a we caching service that stores a client-side copy of web content in a cookie. Can you use this to access a local file called `flag.txt`?
+Someone has written a web caching service that stores a client-side copy of web content in a cookie. Can you use this to access a local file called `flag.txt`?
 
 Solution:
 ---------
